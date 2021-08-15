@@ -32,5 +32,11 @@ Each user takes turns to drop their block on the screen. Command is taken input 
 - -scriptfile2 filename: uses filename as source of blocks for level0, player2
 
 ## Demo
+Sample run with X11: 
 ![Biquadris-Graphic](https://github.com/SouradeepSaha/biquadris/blob/main/biquadrisGraphic.gif)
+
+Command line output:
 ![Biquadris-Command-line](https://github.com/SouradeepSaha/biquadris/blob/main/biquadrisCmdLine.gif)
+
+## Code
+Code for the project is not publicly available on Github due to course policy.
